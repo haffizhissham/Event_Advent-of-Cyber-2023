@@ -1,8 +1,6 @@
 # TryHackMe | Advent of Cyber 2023
 My write-up for the [TryHackMe Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023) event.
 
-
-
 ## Tasks
 * Day 1: `[Machine learning]` Chatbot, tell me, if you're really safe?
 * Day 2: `[Log analysis]` O Data, All Ye Faithful
