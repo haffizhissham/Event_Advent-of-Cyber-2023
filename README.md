@@ -2,8 +2,8 @@
 My write-up for the [TryHackMe Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023) event.
 
 ## Tasks
-* Day 1: [`[Machine learning]` Chatbot, tell me, if you're really safe?](./Day_1/README.md)
-* Day 2: `[Log analysis]` O Data, All Ye Faithful
+* Day 1: [`[Machine learning]` Chatbot, tell me, if you're really safe?](./Day_1)
+* Day 2: [`[Log analysis]` O Data, All Ye Faithful](./Day_2)
 * Day 3: `[Brute-forcing]` Hydra is Coming to Town
 * Day 4:
 * Day 5: 
