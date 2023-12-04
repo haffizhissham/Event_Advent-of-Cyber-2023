@@ -1,2 +1,9 @@
 # Event_Advent-of-Cyber-2023
-My personal write up for TryHackMe Advent of Cyber 2023 event.
+My write-up for the TryHackMe Advent of Cyber 2023 event.
+
+## Tasks
+* Day 1: `[Machine learning]` Chatbot, tell me, if you're really safe?
+* Day 2: `[Log analysis]` O Data, All Ye Faithful
+* Day 3: `[Brute-forcing]` Hydra is Coming to Town
+* Day 4:
+* Day 5: 
