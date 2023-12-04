@@ -1,4 +1,4 @@
-# Event_Advent-of-Cyber-2023
+# TryHackMe | Advent of Cyber 2023
 My write-up for the TryHackMe Advent of Cyber 2023 event.
 
 ## Tasks
