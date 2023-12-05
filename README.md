@@ -2,7 +2,6 @@
 My write-up for the [TryHackMe Advent of Cyber 2023](https://tryhackme.com/room/adventofcyber2023) event.
 
 </br>
-</br>
 
 ## Tasks
 * Day 1: [`[Machine learning]` Chatbot, tell me, if you're really safe?](./Day_1)
