@@ -10,6 +10,6 @@ My write-up for the [TryHackMe Advent of Cyber 2023](https://tryhackme.com/room/
 * Day 06: [`[Memory corruption]`Memories of Christmas Past](./Day_6)
 * Day 07: [`[Log analysis]` ‘Tis the season for log chopping!](./Day_7)
 * Day 08: [`[Disk forensics]` Have a Holly, Jolly Byte!](./Day_8)
-* Day 09: [`[Memory corruption]` Memories of Christmas Past](./Day_9)
+* Day 09: [`[Malware analysis]` She sells C# shells by the C2shore](./Day_9)
 * Day 10: [`[Memory corruption]` Memories of Christmas Past](./Day_10)
 * Day 11: [`[Memory corruption]` Memories of Christmas Past](./Day_11)
