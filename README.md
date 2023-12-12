@@ -12,7 +12,7 @@ My write-up for the [TryHackMe Advent of Cyber 2023](https://tryhackme.com/room/
 * Day 08: [`[Disk forensics]` Have a Holly, Jolly Byte!](./Day_8)
 * Day 09: [`[Malware analysis]` She sells C# shells by the C2shore](./Day_9)
 * Day 10: [`[SQL injection]` Inject the Halls with EXEC Queries](./Day_10)
-* Day 11: [`[Memory corruption]` aaa](./Day_11)
+* Day 11: [`[Active Directory]` Jingle Bells, Shadow Spells](./Day_11)
 * Day 12: [`[Memory corruption]` aaa](./Day_12)
 * Day 13: [`[Memory corruption]` aaa](./Day_13)
 * Day 14: [`[Memory corruption]` aaa](./Day_14)
