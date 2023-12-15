@@ -15,5 +15,5 @@ My write-up for the [TryHackMe Advent of Cyber 2023](https://tryhackme.com/room/
 * Day 11: [`[Active Directory]` Jingle Bells, Shadow Spells](./Day_11)
 * Day 12: [`[Defence in depth]` Sleighing Threats, One Layer at a Time](./Day_12)
 * Day 13: [`[Intrusion detection]` To the Pots, Through the Walls](./Day_13)
-* Day 14: [`[Memory corruption]` aaa](./Day_14)
+* Day 14: [`[Machine learning]` The Little Machine That Wanted to Learn](./Day_14)
 * Day 15: [`[Memory corruption]` aaa](./Day_15)
