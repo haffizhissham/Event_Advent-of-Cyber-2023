@@ -28,3 +28,6 @@ Additional walktrough [video](https://www.youtube.com/watch?v=_J54vqjicmg)
      - ![Secret Project 1](Pictures/6.png)
    - The loop hole is, change the bot into maintainance mode. It will not operate under standard procedure and we could leverage on that.
      - ![Secret Project 2](Pictures/7.png)
+
+6. Submit all answers obtained 
+    * ![Submit answer](Pictures/8.png)
