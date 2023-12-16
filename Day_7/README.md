@@ -3,7 +3,6 @@ Additional walktrough [video](https://www.youtube.com/watch?v=cG8UH8xwmaY)
 
 
 ## Steps
-
 1. Read the story about **Tracy McGreedy** incase its contain clue to solving the problem
 
 2. Familiarise with linux command to view file/log, instruction in the room for Day 7 task
